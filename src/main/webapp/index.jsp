@@ -4,5 +4,6 @@
 <p> I HAVE INSTALLED JAVA, JENKINS, TOMCAT9 IN AMAZON EC2 INSTANCE <p/>
 <h2>Executed Pipeline</h2>
 <h3>GIT CLONE - BUILD - DEPLOY - POLL SCM - EMAIL Notification<h3/>
+<p>To check POLL SCM<p/>
 </body>
 </html>
