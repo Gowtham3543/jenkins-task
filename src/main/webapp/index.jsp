@@ -1,7 +1,6 @@
 <html>
 <body>
-<h2>Jenkins Master slave Created</h2>
-<p>master and slave</p>
-<h3>Connected both master and slave</h3>
+<h2><b>Jenkins Master Jenkins slave and Tomcat server Created</b></h2>
+<p>I have created CICD pipeline cloned from git, build and deployed in TOMCAT SERVER</p>
 </body>
 </html>
